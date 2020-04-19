@@ -54,7 +54,7 @@ Note: The tests run in the background, give it time to finish and generate the r
 ## Reporting
 
 A text file report with the result of the run is created after each test run 
-The text report file is located in 'TextReport' folder once the test has completed: TextReport/Result.txt
+The text report file is located in 'TextReport' folder once the test has completed: [TextReport/Result.txt](/TextReport/)
 ![](https://github.com/Rohan-Ganapathy/doctrinimages/blob/master/DoctrinAPITest/TextReport.png)
 
 The text file also records details on the errors that may occur if the API fails to retrive data.
