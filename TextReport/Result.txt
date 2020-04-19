@@ -1,0 +1,3 @@
+COVID19 stats for the country 'GR': 
+The date when the number of infections was the highest is '2020-04-02T00:00:00Z' and the count for that day rose by '129', while the total confirmed cases on that day stood at '1544'
+The date when the number of deaths was the highest is '2020-04-03T00:00:00Z' and the count for that day rose by '10', while the total deaths on that day stood at '63'
